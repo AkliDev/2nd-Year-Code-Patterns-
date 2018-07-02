@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cameleon.unity
+  isLoaded: 1
+  isActive: 1

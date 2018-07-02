@@ -1,0 +1,7 @@
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\bin\Debug\Observation.exe.config
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\bin\Debug\Observation.exe
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\bin\Debug\Observation.pdb
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\obj\Debug\Observation.csprojResolveAssemblyReference.cache
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\obj\Debug\Observation.exe
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\obj\Debug\Observation.pdb
+D:\School\Jaar 2\Periode 1\programeren\Observation\Observation\Observation\obj\Debug\Observation.csproj.CoreCompileInputs.cache
